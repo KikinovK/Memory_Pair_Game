@@ -20,8 +20,8 @@ body {
   margin: 0 auto;
   padding: 1%;
 }
-@media (min-widht: 800px) {
 
+@media (min-width: 800px) {
   .header, .main, .footer {
     width: 70%;
   }
