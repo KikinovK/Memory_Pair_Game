@@ -101,6 +101,7 @@ a {
   justify-content: center;
   align-items: center;
   transition: 0.5s;
+  -webkit-backface-visibility: hidden;
   backface-visibility: hidden;
   background-color: #fff;
   border: 2px solid #000;
